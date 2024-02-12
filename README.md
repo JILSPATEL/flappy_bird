@@ -1,4 +1,3 @@
-```markdown
 # Flappy Bird Game
 
 This repository contains the code for a Flappy Bird game implemented in Python using the Pygame library.
